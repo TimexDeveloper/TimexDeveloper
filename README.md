@@ -19,7 +19,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### 📊 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimexDevloper&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimexDeveloper&show_icons=true&theme=radical)
 
 ### 📫 **How to Reach Me**
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
