@@ -21,15 +21,8 @@
 ### 📊 **GitHub Stats**
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimexDeveloper&show_icons=true&theme=radical)
 
-### 📫 **How to Reach Me**
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- ✉️ Email: timexdev123@gmail.com
-- 🌍 Website: [yourwebsite.com](https://yourwebsite.com)  
-
-### 🚀 **Latest Projects**
-- [Project 1](https://github.com/YourUsername/project1) - Short description  
-- [Project 2](https://github.com/YourUsername/project2) - Short description  
-- [Project 3](https://github.com/YourUsername/project3) - Short description  
+### 📫 **How to Reach Me** 
+- ✉️ Email: timexdev123@gmail.com 
 
 ⭐ **Fun Fact**: I love automating things and contributing to open-source!  
 
